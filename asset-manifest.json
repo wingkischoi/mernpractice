@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mernpractice/static/css/main.081d1178.css",
+    "main.js": "/mernpractice/static/js/main.3ab2c544.js",
+    "static/js/787.7bebbddf.chunk.js": "/mernpractice/static/js/787.7bebbddf.chunk.js",
+    "index.html": "/mernpractice/index.html",
+    "main.081d1178.css.map": "/mernpractice/static/css/main.081d1178.css.map",
+    "main.3ab2c544.js.map": "/mernpractice/static/js/main.3ab2c544.js.map",
+    "787.7bebbddf.chunk.js.map": "/mernpractice/static/js/787.7bebbddf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.081d1178.css",
+    "static/js/main.3ab2c544.js"
+  ]
+}
